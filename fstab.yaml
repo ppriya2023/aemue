@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p229002-e2313412.adobeaemcloud.com//bin/franklin.delivery/ppriya2023/aemue/main"
-    type: "markup"
-    suffix: ".html"
